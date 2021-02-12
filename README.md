@@ -2,7 +2,7 @@
 
 ## A barebones boiler for static html and js.
 
-Includes a develepment server, and build/bundle to static/dist courtesy of Nue cli.
+Includes a development server and build/bundle to static/dist courtesy of the Vue cli.
 
 ## Why?
 This is handy for POC's, canvas apps and general fiddlin'.
